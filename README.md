@@ -32,4 +32,3 @@ npm run dev      # terminal 2
 ```
 
 Open **http://localhost:3000** in Chrome or Edge → start a class → allow the mic → teach.
-
