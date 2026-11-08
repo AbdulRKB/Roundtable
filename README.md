@@ -2,7 +2,7 @@
 
 # Roundtable
 
-### Teach a room full of AI students. They're actually listening.
+### Teach a room full of AI students.
 
 ![3rd Place](https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-Reply%20Challenge-00EA51?style=for-the-badge&labelColor=151F27)
 ![GreatUniHack](https://img.shields.io/badge/GreatUniHack-2026-7c3aed?style=for-the-badge)
@@ -33,7 +33,3 @@ npm run dev      # terminal 2
 
 Open **http://localhost:3000** in Chrome or Edge → start a class → allow the mic → teach.
 
-
-<div align="center">
-<sub>Built at GreatUniHack | 🥉 3rd place in Reply's challenges</sub>
-</div>
